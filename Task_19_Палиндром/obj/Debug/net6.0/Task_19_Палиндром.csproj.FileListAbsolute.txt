@@ -1,0 +1,15 @@
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\bin\Debug\net6.0\Task_19_Палиндром.exe
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\bin\Debug\net6.0\Task_19_Палиндром.deps.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\bin\Debug\net6.0\Task_19_Палиндром.runtimeconfig.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\bin\Debug\net6.0\Task_19_Палиндром.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\bin\Debug\net6.0\Task_19_Палиндром.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\Task_19_Палиндром.csproj.AssemblyReference.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\Task_19_Палиндром.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\Task_19_Палиндром.AssemblyInfoInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\Task_19_Палиндром.AssemblyInfo.cs
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\Task_19_Палиндром.csproj.CoreCompileInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\Task_19_Палиндром.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\refint\Task_19_Палиндром.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\Task_19_Палиндром.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\Task_19_Палиндром.genruntimeconfig.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_19_Палиндром\obj\Debug\net6.0\ref\Task_19_Палиндром.dll

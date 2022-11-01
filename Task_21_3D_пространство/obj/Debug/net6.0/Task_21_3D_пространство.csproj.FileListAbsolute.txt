@@ -1,0 +1,15 @@
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\bin\Debug\net6.0\Task_21_3D_пространство.exe
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\bin\Debug\net6.0\Task_21_3D_пространство.deps.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\bin\Debug\net6.0\Task_21_3D_пространство.runtimeconfig.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\bin\Debug\net6.0\Task_21_3D_пространство.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\bin\Debug\net6.0\Task_21_3D_пространство.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\Task_21_3D_пространство.csproj.AssemblyReference.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\Task_21_3D_пространство.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\Task_21_3D_пространство.AssemblyInfoInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\Task_21_3D_пространство.AssemblyInfo.cs
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\Task_21_3D_пространство.csproj.CoreCompileInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\Task_21_3D_пространство.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\refint\Task_21_3D_пространство.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\Task_21_3D_пространство.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\Task_21_3D_пространство.genruntimeconfig.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_21_3D_пространство\obj\Debug\net6.0\ref\Task_21_3D_пространство.dll

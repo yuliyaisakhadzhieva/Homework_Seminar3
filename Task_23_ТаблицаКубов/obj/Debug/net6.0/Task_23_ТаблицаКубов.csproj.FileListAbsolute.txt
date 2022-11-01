@@ -1,0 +1,15 @@
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\bin\Debug\net6.0\Task_23_ТаблицаКубов.exe
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\bin\Debug\net6.0\Task_23_ТаблицаКубов.deps.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\bin\Debug\net6.0\Task_23_ТаблицаКубов.runtimeconfig.json
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\bin\Debug\net6.0\Task_23_ТаблицаКубов.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\bin\Debug\net6.0\Task_23_ТаблицаКубов.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\Task_23_ТаблицаКубов.csproj.AssemblyReference.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\Task_23_ТаблицаКубов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\Task_23_ТаблицаКубов.AssemblyInfoInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\Task_23_ТаблицаКубов.AssemblyInfo.cs
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\Task_23_ТаблицаКубов.csproj.CoreCompileInputs.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\Task_23_ТаблицаКубов.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\refint\Task_23_ТаблицаКубов.dll
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\Task_23_ТаблицаКубов.pdb
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\Task_23_ТаблицаКубов.genruntimeconfig.cache
+C:\Users\TAMAPA\Desktop\GB Тестировщик\Уроки\3 Основы языков программирования\ДЗ Семинар 3\Task_23_ТаблицаКубов\obj\Debug\net6.0\ref\Task_23_ТаблицаКубов.dll
